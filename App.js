@@ -1,6 +1,6 @@
 import React from "react";
 import { View } from "react-native";
-import Splash from "./src/Pages/Splash";
+// import Splash from "./src/Pages/Splash";
 import Screen from "./src/Component/Screen"
 
 const App = () => {
